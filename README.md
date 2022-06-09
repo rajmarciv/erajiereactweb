@@ -1,4 +1,4 @@
-# Moje portfolio
+# Moje portfolio and Cloned by rajmarciv
 
 ## Wykorzystano technologie React.js oraz Next.js
 
