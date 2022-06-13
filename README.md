@@ -1,4 +1,4 @@
-# portfolio and Cloned by rajmarciv
+# Personal Information React App Cloned by Erajie Marvic
 
 
 
