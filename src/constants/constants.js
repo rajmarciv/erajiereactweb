@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'Web-based Attendance System',
-    description: "This project is in a login page presenting first action of attendance user to be logged in - you are and only the user can access your own data.",
+    title: 'NBFI New Barbizon Fashion Inc.',
+    description: "This Project Is NBFI Web-based Market offering a single brand of intimate apparel to the market, Barbizon. NBFI ventured into various products for women including swimwear and activewear, then further into children’s and men’s apparel. With multiple in-house brands and international brands, NBFI now has an extensive offering that provides customers exceptional products in over 300 outlets nationwide.",
       image: '/images/TM.png',
       tags: ['JavaScript', 'Bootstrap', 'Php'],
     source: 'https://macieytm.github.io/TrackMania-Website',
@@ -9,8 +9,8 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Web-based Attendance System',
-    description:"This project is in main admin page presenting second action of authorized attendance admin user to manipulate and administrate all attendance data of all employees or users, And Also in this page where stored all data information from all",
+    title: 'Intranet Local Portal Company Website',
+    description:"This project is a Local portal company website or A 'stand alone' website has it's own server space, its own domain, its own design and its own content. In essence, it's an isolated entity that if it ever was hacked or crashed, would only cause an issue for itself",
     image: '/images/Weather.png',
     tags: ['JavaScript', 'Bootstrap', 'Php'],
     source: 'https://macieytm.github.io/Weather-App',
@@ -18,8 +18,8 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Web-based Attendance System',
-    description: "Have you ever wanted to check how much PLN is EURO quickly? This is just one of the many features that my application has to offer. There is a friendly interface which allows you to navigate through different currency to receive the exact value.",
+    title: 'EPC Everyday Product Corporation',
+    description: "This project is Everyday Products Corporation (EPC) Website that Offers online stylish and affordable home décor products to the Philippine Market under the brand names Vista and At Home. These are distributed through the major department stores and furniture shops in the country.EPC distributes novelty gift items as well under the brand name Qyuts!",
       image: '/images/Exchange.png',
       tags: ['JavaScript', 'API'],
     source: 'https://macieytm.github.io/Exchange-Rate',
