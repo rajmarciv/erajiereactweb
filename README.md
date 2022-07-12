@@ -1,6 +1,6 @@
-# Moje portfolio to erajie marvic porfolio
+# My first Data-State Learning in Reactjs and Type Script
 
-## Wykorzystano technologie React.js oraz Next.js
+## More on data state
 
-### Cloned and reprogram by Erajie Marvic
+## Material UI use only -Erajie Marvic 2nd developer
 

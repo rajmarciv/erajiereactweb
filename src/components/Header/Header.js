@@ -8,7 +8,7 @@ import { Container, Div1, Div2, Div3, NavLink, ShowCase, SocialIcons } from './H
 const Header = () =>  (
   <Container>
     <Div1>
-        <a style={{ display: 'flex', alignItems: 'center', color:"white" }} href="https://www.facebook.com/radz.marvic.3" target="_blank">
+        <a style={{ display: 'flex', alignItems: 'center', color:"gray" }} href="https://www.facebook.com/radz.marvic.3" target="_blank">
           <DiCssdeck size="3rem" /> <ShowCase>Meta Raj App</ShowCase>
         </a>
     </Div1>
